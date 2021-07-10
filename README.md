@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/connectnitesh" target="blank"><img src="https://img.shields.io/twitter/follow/connectnitesh?logo=twitter&style=for-the-badge" alt="connectnitesh" /></a> </p>
 
+<img src="https://source.unsplash.com/300x250/?computer" alt="Nitesh Rawat" width="300" height="250" align="right">
+
 - 🌱 I’m currently learning **Web Devlopment**
 
 - 👨‍💻 All of my social Account [https://linktr.ee/connectnitesh](https://linktr.ee/connectnitesh)
@@ -14,6 +16,7 @@
 - 📫 How to reach me **connectnitesh8@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
