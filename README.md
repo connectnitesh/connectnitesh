@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 👨‍💻 All of my  [Social Account](https://bit.ly/3eJRxhG)
+- 👨‍💻 All of my  [Social Account](https://linktr.ee/connectnitesh)
 
 - 📫 How to reach me **connectnitesh8@gmail.com**
 
