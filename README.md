@@ -24,10 +24,11 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/connectnitesh8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/connectnitesh8?hr_r=1" height="30" width="40" /></a>
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connectnitesh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="connectnitesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connectnitesh&show_icons=true&title_color=04fa00&text_color=fafafa&bg_color=000000&locale=en" alt="connectnitesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connectnitesh&theme=highcontrast" alt="connectnitesh" /></p>
+
+<img alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
