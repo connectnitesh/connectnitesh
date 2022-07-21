@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connectnitesh&label=Profile%20views&color=1915f9&style=plastic" alt="connectnitesh" /> </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/79007697/180326957-335277bc-54e6-4785-9fdd-b38f4986f8ea.gif" width="400" height="240" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79007697/180326957-335277bc-54e6-4785-9fdd-b38f4986f8ea.gif" width="500" height="280" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connectnitesh" alt="connectnitesh" /></a> </p>
 
