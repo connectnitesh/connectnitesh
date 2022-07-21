@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connectnitesh&label=Profile%20views&color=1915f9&style=plastic" alt="connectnitesh" /> </p>
 
-<img src="https://user-images.githubusercontent.com/79007697/180326957-335277bc-54e6-4785-9fdd-b38f4986f8ea.gif" width="300" height="280" align="right"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connectnitesh" alt="connectnitesh" /></a> </p>
 
 
-
+<img src="https://user-images.githubusercontent.com/79007697/180326957-335277bc-54e6-4785-9fdd-b38f4986f8ea.gif" width="300" height="280" align="right"/>
 
 - 🌱 I’m currently learning **Web Devlopment**
 
