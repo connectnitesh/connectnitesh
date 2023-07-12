@@ -1,4 +1,4 @@
-<h1 align="left">🙏 Namaste I'm Nitesh, the Techno-Wizard 🤖</h1>
+<h1 align="left">🙏 नमस्ते (Namaste), I'm Nitesh, the Techno-Wizard 🤖</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=connectnitesh&show_icons=true&icon_color=00FFFF&text_color=F4F4F4&bg_color=00000000&ring_color=00FFFF&hide_title=true&hide_border=false" />
 
