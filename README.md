@@ -4,8 +4,7 @@
 
 🖥️ Unleashing the Magic of Code, One Byte at a Time! 
 
-🌟 Full Stack Developer 💻 | Competitive Coder 🏆 | 
-Open Source Enthusiast 🚀
+🌟 Full Stack Developer 💻 | Open Source Enthusiast 🚀
 
 ✨ HTML | CSS | JavaScript | Bootstrap | React  | MongoDB | Node.js  | Express  | EJS ✨
 
