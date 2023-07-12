@@ -1,6 +1,13 @@
+<h1 align="left">👋 Ahoy there! I'm Nitesh, the Techno-Wizard 🧙</span></h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=connectnitesh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=connectnitesh&show_icons=true&icon_color=00FFFF&text_color=F4F4F4&bg_color=00000000&ring_color=00FFFF&hide_title=true&hide_border=false" />
 
-### Hi there，I'm Nitesh 😎
+🌟 Full Stack Developer 💻 | Competitive Coder 🏆 | Open Source Enthusiast 🚀
+🎓 MMMUT, Gorakhpur 🎓
 
-- Open source is something I'm interested in.
+🔮 Unleashing the Magic of Code, One Byte at a Time! 🔮
+
+✨ HTML | CSS | JavaScript | Bootstrap | React  | MongoDB | Node.js  | Express  | EJS ✨
+
+🔥 Welcome to my GitHub Galaxy: Where code meets creativity and impossibilities fade away. Let's embark on an extraordinary coding adventure together! 💫
+
