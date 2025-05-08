@@ -7,4 +7,3 @@
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=connectnitesh&color=008B8B&style=plastic&label=Visitors)
 
-<p align="center"> Welcome to my GitHub Galaxy! 🌌 Let's embark on an extraordinary coding adventure where creativity defies impossibilities! ✨ </p>
