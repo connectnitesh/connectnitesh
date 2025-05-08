@@ -2,11 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=connectnitesh&show_icons=true&icon_color=00FFFF&text_color=F4F4F4&bg_color=00000000&ring_color=00FFFF&hide_title=true&hide_border=false" />
 
-🖥️ Exploring the code labyrinth, one commit at a time!
 
-🌟 Full Stack Developer 💻 | Open Source Enthusiast 🚀
+🌟 Full Stack Developer 💻 
 
-✨ HTML | CSS | JavaScript | Bootstrap | React  | MongoDB | Node.js  | Express  | EJS ✨
+✨ JavaScript | TypeScript | Bootstrap | Tailwind CSS | React | Redux | MongoDB | Node.js | Express | EJS | REST API | Git | GitHub | Postman | Firebase | JWT | Docker | Vercel | Netlify | CI/CD ✨
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=connectnitesh&color=008B8B&style=plastic&label=Visitors)
 
